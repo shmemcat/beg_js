@@ -3,9 +3,13 @@
       "wesbos"
    ],
    "rules": {
-      "indent": [
-         3,
-         "tab"
+      "prettier/prettier": [
+         {
+            "semi": true,
+            "tabWidth": 3,
+            "singleQuote": false,
+            "quoteProps": "preserve"
+         }
       ]
    }
 }
