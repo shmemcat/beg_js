@@ -1,3 +1,9 @@
 {
-   "git.ignoreLimitWarning": true
+   "git.ignoreLimitWarning": true,
+   "[javascript]": {
+      "editor.formatOnSave": false
+   },
+   "[javascriptreact]": {
+      "editor.formatOnSave": false
+   }
 }
